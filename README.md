@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HirotakaUchishiba&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_HirotakaUchishiba&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=HirotakaUchishiba&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_HirotakaUchishiba&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=HirotakaUchishiba&theme=juicyfresh&no-bg=true" />
 
